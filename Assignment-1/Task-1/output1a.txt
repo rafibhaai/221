@@ -1,0 +1,6 @@
+ 5 is a Odd Number
+10 is an Even Number
+ 19 is a Odd Number
+ 7 is a Odd Number
+ 3 is a Odd Number
+100 is an Even Number
